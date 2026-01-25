@@ -86,7 +86,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronak-jain-afk&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-jain-afk&theme=tokyonight" width="48%" />
 </p>
 
