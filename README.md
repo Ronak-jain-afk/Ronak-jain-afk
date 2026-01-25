@@ -95,7 +95,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ronak-jain-afk&theme=tokyonight&row=1" />
 </p>
 
 ---
