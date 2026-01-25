@@ -74,7 +74,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 **Tech:** CNN, OpenCV  
 
 ### 🔹 LinkSentry – ML-based Phishing Detection
-📌 Train & deploy a phishing detection model as a distributable CLI tool
+📌 Train & deploy a phishing detection model as a distributable CLI tool  
 **Tech**: Python, ML (Random Forest), Pandas, PyPI
 
 ### 🔹 Weather Chatbot  
