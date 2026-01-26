@@ -56,10 +56,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 ---
 
 ## 🚀 Featured Projects  
-
-### 🔹 CLI Email Sender  
-📌 Command-line tool to send emails securely  
-**Tech:** Python, SMTP  
+  
 
 ### 🔹 Encryption / Decryption CLI  
 📌 Encrypt & decrypt files/directories  
