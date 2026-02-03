@@ -59,7 +59,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 
 
 ### 🔹 Speech-to-text
-📌 Fine-tuned Wav2Vec2-base model for automatic speech recognition (ASR)
+📌 Fine-tuned Wav2Vec2-base model for automatic speech recognition (ASR)  
 **Tech:** Python, PyTorch, Wav2Vec2, ML, torchaudio 
 
 ### 🔹 Encryption / Decryption CLI  
