@@ -123,7 +123,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=150&section=footer&animation=fadeIn"/>
 </p>
 
 ⭐ *"Building today for a more secure tomorrow."*
