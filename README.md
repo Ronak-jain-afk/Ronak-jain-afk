@@ -57,6 +57,10 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 
 ## 🚀 Featured Projects  
 
+### 🔹GitSafe
+📌 A CLI tool that scans staged Git changes before commit and blocks sensitive data, secrets, and insecure patterns from entering a repository.  
+**Tech:** Python, Rich, Typer, PyYAML+tomil
+
 ### 🔹 SafeBox
 📌 SafeBox is a CLI wrapper around Docker that automatically sandboxes scripts. it detects the language/runtime, selects the right container image, applies resource limits, and streams output in real time. No Dockerfile needed.  
 **Tech:** Typer, Docker SDK for Python, Rich, PyYAML
