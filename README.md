@@ -58,7 +58,7 @@ My goal is to become a **well-rounded security engineer** with strong developmen
 ## 🚀 Featured Projects  
 
 ### 🔹Auto-Agent
-📌 A local, LLM-powered autonomous CLI coding assistant that interprets natural language instructions and executes structured actions within a secure, sandboxed workspace. A tool similer to Claude code or Codex but that works with Local LLM models.
+📌 A local, LLM-powered autonomous CLI coding assistant that interprets natural language instructions and executes structured actions within a secure, sandboxed workspace. A tool similer to Claude code or Codex but that works with Local LLM models.  
 **Tech:** Python, Rich, prompt_toolkit, requests, LLM APIs (Ollama, Gemini, OpenAI, Anthropic)
 
 ### 🔹GitSafe
