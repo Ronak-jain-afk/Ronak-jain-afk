@@ -1,137 +1,193 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ronak+%F0%9F%91%8B;Aspiring+Cybersecurity+Engineer;AI%2FML+Learner+%7C+Web+Developer;Automation+Enthusiast+%28n8n%29;OS+Explorer+%26+Tech+Builder" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ronak%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffffbb&animation=fadeIn" width="100%" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me  
+<div align="center">
 
-🎓 **BCA Student** (Graduating in **2027**)  
-🔐 Aspiring **Cybersecurity Engineer**  
-🤖 Exploring **AI/ML**  
-🌐 Web Developer & Automation Builder  
-📱 Mobile App Learner  
-🖥️ OS & Linux Enthusiast  
+### 🗯️ BCA Student (2027) &nbsp;|&nbsp; 🔐 Aspiring Cybersecurity Engineer &nbsp;|&nbsp; 🤖 AI/ML Learner
 
-I love building **real-world tools**, experimenting with security concepts, automating workflows, and creating intelligent applications.  
-My goal is to become a **well-rounded security engineer** with strong development skills.
+*Trying to be as versatile as I could — building real-world tools, automating workflows, and exploring intelligent systems.*
 
----
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__ronakjain_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ronak.jain_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-jain-0bb5a7330)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ronakjain4448@gmail.com)
 
-## 🛠 Programming Languages  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,java,bash" />
-</p>
+</div>
 
 ---
 
-## ⚙ Tools & Frameworks  
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,flask,nodejs,git,github,vscode,docker" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Other Tools**  
-- n8n (Automation)  
-- OpenCV  
-- TensorFlow (Beginner)  
-- REST APIs  
-- Ngrok  
-- Postman  
+### 🤖 [Auto-Agent](https://github.com/Ronak-jain-afk/Auto-Agent)
+A local, LLM-powered **autonomous CLI coding assistant** that interprets natural language and executes structured actions in a sandboxed workspace — like Claude Code, but for local models.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-## 🎯 Areas of Expertise  
+</td>
+<td width="50%" valign="top">
 
-✔ Cybersecurity Fundamentals  
-✔ Python Automation  
-✔ CLI Tool Development  
-✔ Web Development  
-✔ API Integration  
-✔ Linux & OS Concepts  
-✔ Basic Machine Learning  
-✔ Workflow Automation (n8n)  
+### 🛡️ [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
+A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure patterns from entering your repository before they ever leave your machine.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-000000?style=flat-square&logoColor=white)
+![PyYAML](https://img.shields.io/badge/PyYAML-FF6600?style=flat-square&logoColor=white)
 
-## 🚀 Featured Projects  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹Auto-Agent
-📌 A local, LLM-powered autonomous CLI coding assistant that interprets natural language instructions and executes structured actions within a secure, sandboxed workspace. A tool similer to Claude code or Codex but that works with Local LLM models.  
-**Tech:** Python, Rich, prompt_toolkit, requests, LLM APIs (Ollama, Gemini, OpenAI, Anthropic)
+### 📦 [SafeBox](https://github.com/Ronak-jain-afk/SafeBox)
+A **Docker-powered sandbox CLI** — auto-detects language/runtime, selects the right container, applies resource limits, and streams output in real time. No Dockerfile needed.
 
-### 🔹GitSafe
-📌 A CLI tool that scans staged Git changes before commit and blocks sensitive data, secrets, and insecure patterns from entering a repository.  
-**Tech:** Python, Rich, Typer, PyYAML+tomil
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white)
 
-### 🔹 SafeBox
-📌 SafeBox is a CLI wrapper around Docker that automatically sandboxes scripts. it detects the language/runtime, selects the right container image, applies resource limits, and streams output in real time. No Dockerfile needed.  
-**Tech:** Typer, Docker SDK for Python, Rich, PyYAML
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Speech-to-text
-📌 Fine-tuned Wav2Vec2-base model for automatic speech recognition (ASR)  
-**Tech:** Python, PyTorch, Wav2Vec2, ML, torchaudio 
+### 🔗 [LinkSentry](https://github.com/Ronak-jain-afk/linksentry)
+An **ML-based phishing detection** tool trained with Random Forest, packaged as a distributable CLI via PyPI. Protects users from malicious URLs in real time.
 
-### 🔹 Encryption / Decryption CLI  
-📌 Encrypt & decrypt files/directories  
-**Tech:** Python, Cryptography  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/RandomForest-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🔹 AI Smart Board  
-📌 Draw on screen using hand gestures via webcam  
-**Tech:** OpenCV, Python  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Emotion Detection ML  
-📌 Reads facial emotions using ML  
-**Tech:** CNN, OpenCV  
+### 🔒 [CryptLock](https://github.com/Ronak-jain-afk/cryptlock)
+**Encrypt & decrypt files/directories** from the command line with strong cryptographic primitives. Simple CLI interface for real-world file security.
 
-### 🔹 LinkSentry – ML-based Phishing Detection
-📌 Trained & deployed a phishing detection model as a distributable CLI tool  
-**Tech**: Python, ML (Random Forest), Pandas, PyPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF5733?style=flat-square&logoColor=white)
 
-### 🔹 Weather Chatbot  
-📌 Web chatbot that fetches real-time weather  
-**Tech:** JS, Weather API  
+</td>
+<td width="50%" valign="top">
 
----
+### 🎤 [Speech-to-Text](https://github.com/Ronak-jain-afk/Speech-to-text)
+**Fine-tuned Wav2Vec2-base** model for automatic speech recognition (ASR), trained end-to-end with PyTorch and torchaudio.
 
-## 📊 GitHub Stats  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-412991?style=flat-square&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronak-jain-afk&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-jain-afk&theme=tokyonight" width="48%" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 😄 [Emotion Recognition](https://github.com/Ronak-jain-afk/emotion-recognition)
+**Real-time facial emotion detection** using a CNN model and OpenCV webcam feed. Reads and classifies emotions from live video input.
 
-## 🏆 Achievements  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronak-jain-afk&theme=tokyonight&row=1" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### ✋ [AI Smart Board](https://github.com/Ronak-jain-afk/AI-Smart-Board)
+**Draw on screen using hand gestures** detected through your webcam — a gesture-controlled virtual whiteboard powered by OpenCV.
 
-## 📬 Contact Me  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<p>
-  <a href="mailto:ronakjain4448@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ronak-jain-0bb5a7330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=footer&animation=twinkling"/>
-</p>
+## 🛠️ Tech Stack
 
-⭐ *"Building today for a more secure tomorrow."*
+<div align="center">
+
+### Languages & Runtimes
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash,html,css&theme=dark)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nodejs,flask&theme=dark)](https://skillicons.dev)
+
+### AI / ML
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ronak-jain-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-jain-afk&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=FF9A00&currStreakLabel=00f7ff" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-jain-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&langs_count=8" height="150" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ronak-jain-afk&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+- 🔐 **Post-Quantum Cryptography** & adversarial robustness of LLM security agents
+- 🖥️ **Operating Systems** internals — OSTEP, xv6, writing OS components in Rust
+- 🤖 **AI Agents** — autonomous pipelines, local LLM tooling, MCP integrations
+- ♟️ **Chess Engine** in Python using Negamax + alpha-beta pruning
+- 📹 **Remotion** — programmatic motion graphics with React
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronak-jain-afk)
+[![My Repos](https://img.shields.io/badge/My_Repos-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronak-jain-afk?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ronakjain4448@gmail.com)
+
+⭐ **Star a repo** if you find it useful — it really helps!
+🔧 Issues and PRs always welcome.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%" />
+
+*"Building today for a more secure tomorrow."*
+
+</div>
