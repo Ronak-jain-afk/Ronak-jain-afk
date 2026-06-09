@@ -80,33 +80,34 @@ An **ML-based phishing detection** tool trained with Random Forest, packaged as 
 </td>
 <td width="50%" valign="top">
 
-### 🎤 [Speech-to-Text](https://github.com/Ronak-jain-afk/Speech-to-text)
-**Fine-tuned Wav2Vec2-base** model for automatic speech recognition (ASR), trained end-to-end with PyTorch and torchaudio.
+### 🧾 [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
+A modern **invoice management application** for creating, organizing, and tracking invoices. Features automated calculations, PDF generation, and a streamlined workflow for freelancers and small businesses.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-412991?style=flat-square&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 😄 [Emotion Recognition](https://github.com/Ronak-jain-afk/emotion-recognition)
-**Real-time facial emotion detection** using a CNN model and OpenCV webcam feed. Reads and classifies emotions from live video input.
+### 🎙️ [Whisper](https://github.com/Ronak-jain-afk/Whisper)
+An AI-powered **speech-to-text transcription tool** built using OpenAI Whisper. Converts audio into accurate text transcripts while supporting multiple audio formats and local processing.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
-### ✋ [AI Smart Board](https://github.com/Ronak-jain-afk/AI-Smart-Board)
-**Draw on screen using hand gestures** detected through your webcam — a gesture-controlled virtual whiteboard powered by OpenCV.
+### 🔍 [Delve](https://github.com/Ronak-jain-afk/Delve)
+A **cybersecurity reconnaissance toolkit** that automates information gathering and investigation workflows. Designed to simplify OSINT and security research through an efficient CLI interface.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
+![CLI](https://img.shields.io/badge/CLI-121011?style=flat-square&logo=gnubash&logoColor=white) 
+![Security](https://img.shields.io/badge/Security-FF6F00?style=flat-square)
 
 </td>
 </tr>
