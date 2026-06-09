@@ -120,8 +120,7 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 <div align="center">
 
 ### Languages & Runtimes
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,bash,html,css&theme=dark)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=python,rust,js,ts,c,cpp,java,bash,html,css&theme=dark)](https://skillicons.dev)
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nodejs,flask&theme=dark)](https://skillicons.dev)
 
