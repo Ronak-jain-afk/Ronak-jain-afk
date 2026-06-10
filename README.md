@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🗯️ BCA Student (2027) &nbsp;|&nbsp; 🔐 Aspiring Cybersecurity Engineer &nbsp;|&nbsp; 🤖 AI/ML Learner
+### 🗯️ BCA Student (2027) &nbsp;|&nbsp;  Aspiring Cybersecurity Engineer &nbsp;|&nbsp;  AI/ML Learner
 
 *Trying to be as versatile as I could — building real-world tools, automating workflows, and exploring intelligent systems.*
 
@@ -21,13 +21,13 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Auto-Agent](https://github.com/Ronak-jain-afk/Auto-Agent)
+###  [Auto-Agent](https://github.com/Ronak-jain-afk/Auto-Agent)
 A local, LLM-powered **autonomous CLI coding assistant** that interprets natural language and executes structured actions in a sandboxed workspace — like Claude Code, but for local models.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ A local, LLM-powered **autonomous CLI coding assistant** that interprets natural
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
+###  [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
 A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure patterns from entering your repository before they ever leave your machine.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +49,7 @@ A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure p
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [SafeBox](https://github.com/Ronak-jain-afk/SafeBox)
+###  [SafeBox](https://github.com/Ronak-jain-afk/SafeBox)
 A **Docker-powered sandbox CLI** — auto-detects language/runtime, selects the right container, applies resource limits, and streams output in real time. No Dockerfile needed.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ A **Docker-powered sandbox CLI** — auto-detects language/runtime, selects the 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 [LinkSentry](https://github.com/Ronak-jain-afk/linksentry)
+###  [LinkSentry](https://github.com/Ronak-jain-afk/linksentry)
 An **ML-based phishing detection** tool trained with Random Forest, packaged as a distributable CLI via PyPI. Protects users from malicious URLs in real time.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -71,7 +71,7 @@ An **ML-based phishing detection** tool trained with Random Forest, packaged as 
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 [CryptLock](https://github.com/Ronak-jain-afk/cryptlock)
+###  [CryptLock](https://github.com/Ronak-jain-afk/cryptlock)
 **Encrypt & decrypt files/directories** from the command line with strong cryptographic primitives. Simple CLI interface for real-world file security.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -80,7 +80,7 @@ An **ML-based phishing detection** tool trained with Random Forest, packaged as 
 </td>
 <td width="50%" valign="top">
 
-### 🧾 [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
+###  [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
 A modern **invoice management application** for creating, organizing, and tracking invoices. Features automated calculations, PDF generation, and a streamlined workflow for freelancers and small businesses.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
@@ -92,7 +92,7 @@ A modern **invoice management application** for creating, organizing, and tracki
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Whisper](https://github.com/Ronak-jain-afk/Whisper)
+###  [Whisper](https://github.com/Ronak-jain-afk/Whisper)
 An AI-powered **speech-to-text transcription tool** built using OpenAI Whisper. Converts audio into accurate text transcripts while supporting multiple audio formats and local processing.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -102,7 +102,7 @@ An AI-powered **speech-to-text transcription tool** built using OpenAI Whisper. 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Delve](https://github.com/Ronak-jain-afk/Delve)
+###  [Delve](https://github.com/Ronak-jain-afk/Delve)
 A **cybersecurity reconnaissance toolkit** that automates information gathering and investigation workflows. Designed to simplify OSINT and security research through an efficient CLI interface.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
@@ -115,7 +115,7 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -136,7 +136,7 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -149,7 +149,7 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 
 ---
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 
@@ -161,11 +161,11 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 
 ## 🎯 Currently Exploring
 
-- 🔐 **Post-Quantum Cryptography** & adversarial robustness of LLM security agents
-- 🖥️ **Operating Systems** internals — OSTEP, xv6, writing OS components in Rust
-- 🤖 **AI Agents** — autonomous pipelines, local LLM tooling, MCP integrations
-- ♟️ **Chess Engine** in Python using Negamax + alpha-beta pruning
-- 📹 **Remotion** — programmatic motion graphics with React
+-  **Post-Quantum Cryptography** & adversarial robustness of LLM security agents
+-  **Operating Systems** internals — OSTEP, xv6, writing OS components in Rust
+-  **AI Agents** — autonomous pipelines, local LLM tooling, MCP integrations
+-  **Chess Engine** in Python using Negamax + alpha-beta pruning
+-  **Remotion** — programmatic motion graphics with React
 
 ---
 
