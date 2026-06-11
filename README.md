@@ -122,7 +122,7 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 ### Languages & Runtimes
 [![Skills](https://skillicons.dev/icons?i=python,rust,js,ts,c,cpp,java,bash,html,css&theme=dark)](https://skillicons.dev)
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nodejs,flask,opencode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nodejs,flask&theme=dark)](https://skillicons.dev)
 
 ### AI / ML
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
