@@ -28,7 +28,7 @@
 <td width="50%" valign="top">
 
 ###  [Auto-Agent](https://github.com/Ronak-jain-afk/Auto-Agent)
-A local, LLM-powered **autonomous CLI coding assistant** that interprets natural language and executes structured actions in a sandboxed workspace — like Claude Code, but for local models.
+A local, LLM-powered **autonomous CLI coding assistant** that interprets natural language and executes structured actions in a sandboxed workspace, like Claude Code, but for local models.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
@@ -50,7 +50,7 @@ A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure p
 <td width="50%" valign="top">
 
 ###  [SafeBox](https://github.com/Ronak-jain-afk/SafeBox)
-A **Docker-powered sandbox CLI** — auto-detects language/runtime, selects the right container, applies resource limits, and streams output in real time. No Dockerfile needed.
+A **Docker-powered sandbox CLI** : auto-detects language/runtime, selects the right container, applies resource limits, and streams output in real time. No Dockerfile needed.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -162,10 +162,10 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 ## 🎯 Currently Exploring
 
 -  **Post-Quantum Cryptography** & adversarial robustness of LLM security agents
--  **Operating Systems** internals — OSTEP, xv6, writing OS components in Rust
--  **AI Agents** — autonomous pipelines, local LLM tooling, MCP integrations
+-  **Operating Systems** internals, OSTEP, xv6, writing OS components in Rust
+-  **AI Agents** : autonomous pipelines, local LLM tooling, MCP integrations
 -  **Chess Engine** in Python using Negamax + alpha-beta pruning
--  **Remotion** — programmatic motion graphics with React
+-  **Remotion** : programmatic motion graphics with React
 
 ---
 
