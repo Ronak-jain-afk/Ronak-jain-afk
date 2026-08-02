@@ -93,7 +93,7 @@ A modern **invoice management application** for creating, organizing, and tracki
 <td width="50%" valign="top">
 
 ###  [Whisper](https://github.com/Ronak-jain-afk/Whisper)
-An AI-powered **speech-to-text transcription tool** built using OpenAI Whisper. Converts audio into accurate text transcripts while supporting multiple audio formats and local processing.
+A **browser-to-browser encrypted chat** app that connects peers directly over WebRTC, verifies identities with a short authentication string (SAS), and encrypts messages end-to-end.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white) 
