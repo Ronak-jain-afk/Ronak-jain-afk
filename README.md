@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ronak%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffffbb&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00f7ff&height=220&section=header&text=Ronak%20Jain&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffffdd&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&lines=BCA+Student+%282027%29%3BAspiring+Cybersecurity+Engineer%3BAI+ML+Builder" alt="Typing animation" />
 
@@ -12,6 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ronak.jain_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-jain-0bb5a7330)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ronakjain4448@gmail.com)
+[![Followers](https://img.shields.io/github/followers/Ronak-jain-afk?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronak-jain-afk?tab=followers)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ronak-jain-afk&color=00f7ff&style=flat-square)
 
@@ -187,7 +188,7 @@ Issues and pull requests are always welcome.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:2575fc,100:6a11cb&height=170&section=footer&text=Thanks%20for%20visiting&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Let%27s%20build%20something%20secure%20together&descAlignY=66&descSize=16&descColor=ffffffdd&animation=fadeIn" width="100%" />
 
 *"Building today for a more secure tomorrow."*
 
