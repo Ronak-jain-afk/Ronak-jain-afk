@@ -27,34 +27,12 @@
 <tr>
 <td width="50%" valign="top">
 
-###  [Auto-Agent](https://github.com/Ronak-jain-afk/Auto-Agent)
-A local, LLM-powered **autonomous CLI coding assistant** that interprets natural language and executes structured actions in a sandboxed workspace, like Claude Code, but for local models.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
 ###  [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
 A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure patterns from entering your repository before they ever leave your machine.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-000000?style=flat-square&logoColor=white)
 ![PyYAML](https://img.shields.io/badge/PyYAML-FF6600?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  [SafeBox](https://github.com/Ronak-jain-afk/SafeBox)
-A **Docker-powered sandbox CLI** : auto-detects language/runtime, selects the right container, applies resource limits, and streams output in real time. No Dockerfile needed.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -71,15 +49,6 @@ An **ML-based phishing detection** tool trained with Random Forest, packaged as 
 <tr>
 <td width="50%" valign="top">
 
-###  [CryptLock](https://github.com/Ronak-jain-afk/cryptlock)
-**Encrypt & decrypt files/directories** from the command line with strong cryptographic primitives. Simple CLI interface for real-world file security.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-FF5733?style=flat-square&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
 ###  [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
 A modern **invoice management application** for creating, organizing, and tracking invoices. Features automated calculations, PDF generation, and a streamlined workflow for freelancers and small businesses.
 
@@ -88,21 +57,21 @@ A modern **invoice management application** for creating, organizing, and tracki
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ###  [Whisper](https://github.com/Ronak-jain-afk/Whisper)
 A **browser-to-browser encrypted chat** app that connects peers directly over WebRTC, verifies identities with a short authentication string (SAS), and encrypts messages end-to-end.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white) 
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-###  [Delve](https://github.com/Ronak-jain-afk/Delve)
+### 🔍 [Delve](https://github.com/Ronak-jain-afk/Delve)
 A **cybersecurity reconnaissance toolkit** that automates information gathering and investigation workflows. Designed to simplify OSINT and security research through an efficient CLI interface.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
@@ -110,8 +79,32 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 ![Security](https://img.shields.io/badge/Security-FF6F00?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
+
+### 🎙️ [Pitch](https://github.com/Ronak-jain-afk/Pitch)
+**Push-to-talk dictation for Windows** — hold Ctrl+Win, speak, release to type anywhere. Local Whistle engine + Groq cloud fallback, on-device AI polish, dictionary & snippets.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 [30Day](https://github.com/Ronak-jain-afk/30Day)
+A **local-first 30-day learning tracker** desktop app — import any timetable, day view + streaks + GitHub-style graph, SQLite offline, export roundtrip, in-app updates.
+
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
 </tr>
 </table>
+
+> 🔒 **In private development** — `Vak`: 28M-param language model trained from scratch on a laptop GPU for everyday chit-chat · `Wright`: autonomous Blender agent turning natural language into 3D assets with live-scene spatial manipulation.
 
 ---
 
