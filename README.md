@@ -2,32 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ronak%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=ffffffbb&animation=fadeIn" width="100%" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&lines=BCA+Student+%282027%29%3BAspiring+Cybersecurity+Engineer%3BAI+ML+Builder" alt="Typing animation" />
 
----
+**BCA Student (2027) &nbsp;|&nbsp; Aspiring Cybersecurity Engineer &nbsp;|&nbsp; AI/ML Learner**
 
-<div align="center">
-
-### 🗯️ BCA Student (2027) &nbsp;|&nbsp;  Aspiring Cybersecurity Engineer &nbsp;|&nbsp;  AI/ML Learner
-
-*Trying to be as versatile as I could — building real-world tools, automating workflows, and exploring intelligent systems.*
+*Building real-world tools, automating workflows, and exploring intelligent systems.*
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__ronakjain_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ronak.jain_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-jain-0bb5a7330)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ronakjain4448@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ronak-jain-afk&color=00f7ff&style=flat-square)
+
 </div>
 
 ---
 
-##  Featured Projects
+## Featured Projects
+
+<p align="center">Selected public work across security tooling, desktop apps, and applied ML.</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
+### [GitSafe](https://github.com/Ronak-jain-afk/GitSafe)
 A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure patterns from entering your repository before they ever leave your machine.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ A **pre-commit CLI scanner** that blocks secrets, sensitive data, and insecure p
 </td>
 <td width="50%" valign="top">
 
-###  [LinkSentry](https://github.com/Ronak-jain-afk/linksentry)
+### [LinkSentry](https://github.com/Ronak-jain-afk/linksentry)
 An **ML-based phishing detection** tool trained with Random Forest, packaged as a distributable CLI via PyPI. Protects users from malicious URLs in real time.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,21 +49,21 @@ An **ML-based phishing detection** tool trained with Random Forest, packaged as 
 <tr>
 <td width="50%" valign="top">
 
-###  [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
+### [RE-Invoice](https://github.com/Ronak-jain-afk/RE-Invoice)
 A modern **invoice management application** for creating, organizing, and tracking invoices. Features automated calculations, PDF generation, and a streamlined workflow for freelancers and small businesses.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
-![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-###  [Whisper](https://github.com/Ronak-jain-afk/Whisper)
-A **browser-to-browser encrypted chat** app that connects peers directly over WebRTC, verifies identities with a short authentication string (SAS), and encrypts messages end-to-end.
+### [Whisper](https://github.com/Ronak-jain-afk/Whisper)
+A **browser-to-browser encrypted chat** app that connects peers directly over WebRTC, verifies identities with a short authentication string (SAS), and encrypts messages end to end.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) 
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
@@ -71,18 +71,18 @@ A **browser-to-browser encrypted chat** app that connects peers directly over We
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Delve](https://github.com/Ronak-jain-afk/Delve)
+### [Delve](https://github.com/Ronak-jain-afk/Delve)
 A **cybersecurity reconnaissance toolkit** that automates information gathering and investigation workflows. Designed to simplify OSINT and security research through an efficient CLI interface.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
-![CLI](https://img.shields.io/badge/CLI-121011?style=flat-square&logo=gnubash&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-FF6F00?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ [Pitch](https://github.com/Ronak-jain-afk/Pitch)
-**Push-to-talk dictation for Windows** — hold Ctrl+Win, speak, release to type anywhere. Local Whistle engine + Groq cloud fallback, on-device AI polish, dictionary & snippets.
+### [Pitch](https://github.com/Ronak-jain-afk/Pitch)
+**Push-to-talk dictation for Windows.** Hold Ctrl+Win, speak, release to type anywhere. Local Whistle engine with Groq cloud fallback, on-device AI polish, plus dictionary and snippets.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
@@ -93,31 +93,39 @@ A **cybersecurity reconnaissance toolkit** that automates information gathering 
 <tr>
 <td width="50%" valign="top">
 
-### 📅 [30Day](https://github.com/Ronak-jain-afk/30Day)
-A **local-first 30-day learning tracker** desktop app — import any timetable, day view + streaks + GitHub-style graph, SQLite offline, export roundtrip, in-app updates.
+### [30Day](https://github.com/Ronak-jain-afk/30Day)
+A **local-first 30-day learning tracker.** Import any timetable and follow day views, streaks, and a GitHub style activity graph. Fully offline on SQLite with export roundtrip and in-app updates.
 
 ![Tauri](https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### Private R and D
+Currently in private development: **Vak**, a 28M parameter language model trained from scratch on a laptop GPU, and **Wright**, an autonomous Blender agent that turns natural language into 3D assets. Public release planned.
+
+![Status](https://img.shields.io/badge/Status-Private-6e7681?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logoColor=white)
+
+</td>
 </tr>
 </table>
 
-> 🔒 **In private development** — `Vak`: 28M-param language model trained from scratch on a laptop GPU for everyday chit-chat · `Wright`: autonomous Blender agent turning natural language into 3D assets with live-scene spatial manipulation.
-
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages & Runtimes
+### Languages and Runtimes
 [![Skills](https://skillicons.dev/icons?i=python,rust,js,ts,c,cpp,java,bash,html,css&theme=dark)](https://skillicons.dev)
-### Tools & Platforms
+### Tools and Platforms
 [![Tools](https://skillicons.dev/icons?i=linux,git,github,docker,vscode,nodejs,flask&theme=dark)](https://skillicons.dev)
 
-### AI / ML
+### AI and ML
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -129,7 +137,7 @@ A **local-first 30-day learning tracker** desktop app — import any timetable, 
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -142,7 +150,7 @@ A **local-first 30-day learning tracker** desktop app — import any timetable, 
 
 ---
 
-##  Trophies
+## Trophies
 
 <div align="center">
 
@@ -152,17 +160,17 @@ A **local-first 30-day learning tracker** desktop app — import any timetable, 
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
--  **Post-Quantum Cryptography** & adversarial robustness of LLM security agents
--  **Operating Systems** internals, OSTEP, xv6, writing OS components in Rust
--  **AI Agents** : autonomous pipelines, local LLM tooling, MCP integrations
--  **Chess Engine** in Python using Negamax + alpha-beta pruning
--  **Remotion** : programmatic motion graphics with React
+- **Post-Quantum Cryptography** and adversarial robustness of LLM security agents
+- **Operating Systems** internals: OSTEP, xv6, writing OS components in Rust
+- **AI Agents**: autonomous pipelines, local LLM tooling, MCP integrations
+- **Chess Engine** in Python using Negamax with alpha-beta pruning
+- **Remotion**: programmatic motion graphics with React
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
@@ -170,8 +178,8 @@ A **local-first 30-day learning tracker** desktop app — import any timetable, 
 [![My Repos](https://img.shields.io/badge/My_Repos-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronak-jain-afk?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ronakjain4448@gmail.com)
 
-⭐ **Star a repo** if you find it useful — it really helps!
-🔧 Issues and PRs always welcome.
+**Star a repo** if you find it useful. It really helps.
+Issues and pull requests are always welcome.
 
 </div>
 
