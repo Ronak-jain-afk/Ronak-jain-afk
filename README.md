@@ -163,12 +163,10 @@ Currently in private development: **Vak**, a 28M parameter language model traine
 
 ## Currently Exploring
 
-- **Post-Quantum Cryptography** and adversarial robustness of LLM security agents
-- **Operating Systems** internals: OSTEP, xv6, writing OS components in Rust
+- **LLM Fine-Tuning**: Exploring and researching to fine tune LLMs
+- **Training LLMs from scratch with pytorch**: Researching and exploring training LLM's
+- **Rust**: exploring the world of Rust programming
 - **AI Agents**: autonomous pipelines, local LLM tooling, MCP integrations
-- **Chess Engine** in Python using Negamax with alpha-beta pruning
-- **Remotion**: programmatic motion graphics with React
-
 ---
 
 ## Connect
