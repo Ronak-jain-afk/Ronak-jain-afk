@@ -73,7 +73,7 @@ A **browser-to-browser encrypted chat** app that connects peers directly over We
 <td width="50%" valign="top">
 
 ### [Delve](https://github.com/Ronak-jain-afk/Delve)
-A **cybersecurity reconnaissance toolkit** that automates information gathering and investigation workflows. Designed to simplify OSINT and security research through an efficient CLI interface.
+Delve is a **CLI tool** that finds dead code, giant functions, duplicates, and risky patterns in your JavaScript and TypeScript projects. Zero config, no LSP, no daemon just fast static analysis.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-121011?style=flat-square&logo=gnubash&logoColor=white)
